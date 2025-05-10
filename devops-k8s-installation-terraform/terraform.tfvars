@@ -1,0 +1,8 @@
+prefix                       = "devops2-abdulrzzaq"
+location                     = "West US 3"
+default_node_pool_name       = "sau"
+database_server_name         = "db-server-abdulrzzaq"
+administrator_login          = "sql-admin"
+administrator_login_password = "DevOps@group2"
+db_name                      = "database-app"
+dns_zone_name                = "privatelink.database.windows.net"
